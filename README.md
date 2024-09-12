@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm PRIYANSHU CHAUHAN</h1>
 <h3 align="center">A passionate developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuc0007&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuc0007" /> </p>
 
