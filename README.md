@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://github.com/priyanshuc0007/priyanshuc0007/assets/https://giphy.com/stickers/ai-cyborg-artificial-intelligence-oOylMv2oLDxcxGzYn6" alt="AI Developer " />
+</h1>
 <h1 align="center">Hey there! 👋 I'm PRIYANSHU CHAUHAN</h1> <h3 align="center">A Passionate Developer and AI Enthusiast from India 🚀</h3> <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/9yRMxLuRqyQ0x3jJXD/giphy.webp?cid=790b7611hjdylyczf6t8j9rnfxvl6ny6v39y2v8zuv5swdzt&ep=v1_gifs_search&rid=giphy.webp&ct=s"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuc0007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/priyanshuc0007?label=Followers&style=social" alt="GitHub Followers" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshuc0007&theme=onedark" alt="GitHub Trophies" /></a> </p>
 🧑‍💻 A Little About Me:
 💡 I’m currently diving deep into Data Science and expanding my knowledge in AI & Machine Learning.
