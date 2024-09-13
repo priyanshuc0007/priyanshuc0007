@@ -7,7 +7,7 @@
 <h1 align="center">Hey there! 👋 I'm PRIYANSHU CHAUHAN</h1>
 <h3 align="center">A Passionate Developer and AI Enthusiast from India 🚀</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/9yRMxLuRqyQ0x3jJXD/giphy.webp?cid=790b7611hjdylyczf6t8j9rnfxvl6ny6v39y2v8zuv5swdzt&ep=v1_gifs_search&rid=giphy.webp&ct=s">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFsNWp6Y3B0bTV3ZXo1eHBwNnpxcXNjMDhpdXhjNGJkZmJ1cTdpeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1O7Dp4NWTdB1C/giphy.webp">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=priyanshuc0007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
